@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Refleks</string>
+    <string name="saved_high_score_key">0</string>
+    <string name="ilosc_graczy">2</string>
+</resources>
